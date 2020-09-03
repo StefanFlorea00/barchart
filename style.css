@@ -1,0 +1,17 @@
+.bar {
+  height: 82px;
+  width: 24px;
+  background-color: green;
+  margin: 1px;
+}
+
+.bars {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: 300px;
+}
+
+body {
+  background-color: lightblue;
+}
